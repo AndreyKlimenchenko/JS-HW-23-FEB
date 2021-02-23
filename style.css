@@ -1,0 +1,23 @@
+.btn1 {
+    color: #212121;
+    background-color: transparent;
+    border: 3px solid #FFC80A;
+}
+
+.btn2 {
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 3px solid #FFC80A;
+}
+
+.btn1:hover {
+    color: #FFFFFF;
+    background-color: rgba(143, 117, 190, 1);
+    border: 3px solid transparent;
+}
+
+.btn2:hover {
+    color: #212121;
+    background-color: #FFFFFF;
+    border: 3px solid transparent;
+}
